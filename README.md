@@ -182,7 +182,7 @@ Example (NVDA Week 1):
 
 ---
 
-## 🧭 Future Work  
+## Future Work  
 
 - Expand validation to multi-sector and global indices  
 - Integrate broker APIs for real execution  
