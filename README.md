@@ -193,4 +193,4 @@ Example (NVDA Week 1):
 ---
 
 > *Developed as part of the M.Sc. Independent Study in Data Analytics and Data Science (DADS5), NIDA.*  
-> *Demonstrating a transparent, score-driven, agentic AI approach for short-term investment strategy.*
+> *Demonstrating a transparent, score-driven, Large Language Models(LLMs), Zero-Shot Reasoning, Financial Technology, Portfolio Selection, Agentic AI approach for short-term investment strategy.*
