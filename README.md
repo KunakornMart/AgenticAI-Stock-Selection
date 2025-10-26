@@ -79,10 +79,6 @@ They are organized into 7 sub-sectors (Figure 2):
 
 - **Sequential Agent Execution:** LangGraph ensures ordered execution (Momentum → Catalyst → Technical → Liquidity → Risk).  
 - **Zero-Shot Reasoning:** Each agent uses its own expert-prompt to evaluate data.  
-- **Score-Driven Synthesis:**  
-  \[
-  \text{Final Score}_i = \sum_{j=1}^{5} w_j × s_{ij}, \quad w_j = 0.2
-  \]
 - **Top 5 stocks by final score** → Weekly portfolio.  
 
 ---
