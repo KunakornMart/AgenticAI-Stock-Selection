@@ -164,13 +164,19 @@ Example (NVDA Week 1):
 
 ---
 
-## 🧭 Key Findings  
+## 🔓 Key Findings  
 
-- ✅ **Consistent Outperformance:** AI portfolio beat benchmarks in 7 of 9 weeks.  
-- ✅ **Robust Risk Control:** Max weekly drawdown –1.4 % only.  
-- ✅ **Explainable Reasoning:** Agent-level scores traceable to data.  
-- ✅ **Efficiency:** ~45 min runtime per 90 stocks (Colab Pro).  
-- ✅ **Empirical Validation:** Live experiment vs backtesting.  
+| Metric | Value | Description |
+|:--|:--:|:--|
+| **Average Weekly Return** | **+3.28 %** | Mean weekly performance over 9-week live validation |
+| **Cumulative Return (Compounded)** | **+32.99 %** | Equivalent to ~1.33X portfolio growth over 9 weeks |
+| **Std. Dev. of Weekly Returns** | **3.86 %** | Controlled volatility across cycles |
+| **Max Weekly Drawdown** | **–1.40 %** | Strong downside protection |
+| **Annualized Sharpe Ratio** | **6.02** | Exceptional risk-adjusted return (Sharpe > 3 = excellent) |
+
+- **Explainable Reasoning:** Agent-level scores traceable to data.  
+- **Efficiency:** ~45 min runtime per 90 stocks (Colab Pro).  
+- **Empirical Validation:** Live experiment.  
 
 ---
 
