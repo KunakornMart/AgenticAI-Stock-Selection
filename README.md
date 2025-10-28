@@ -195,6 +195,17 @@ Example (NVDA Week 1):
 - Add adaptive learning / self-reflection loops  
 - Explore real-time reinforcement scoring  
 
+---
+## 🎙️ Project Podcast Overview  
+
+To make the research more accessible, a bilingual podcast discussion is available:  
+
+| Language | Link |
+|:----------|:-----|
+| 🇬🇧 **English Discussion** | [Watch on YouTube](https://youtu.be/aKs1FSbS9bI) |
+| 🇹🇭 **Thai Discussion** | [ฟังพอดแคสต์ภาษาไทย](https://youtu.be/8hXI0siDsng) |
+
+> 🎧 In this podcast, we discuss the motivation, system architecture, and key findings of the Agentic AI framework — both in Thai and English versions.
 
 ---
 
