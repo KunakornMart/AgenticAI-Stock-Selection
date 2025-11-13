@@ -1,8 +1,0 @@
-yfinance
-pandas-ta
-alpha_vantage
-newsapi-python
-langchain
-pydantic
-httpx
-numpy
